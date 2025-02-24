@@ -1,0 +1,18 @@
+.rating-wrapper {
+    margin: 5px 0;
+}
+.rating {
+    color: var(--white-color);
+    background-color: var(--success-color);
+    padding: 0 4px;
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+    margin-left: 10px;
+}
+.rating-wrapper span {
+    color: var(--info-color);
+    font-weight: 600;
+}
