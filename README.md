@@ -20,7 +20,7 @@ The project includes a clean UI, reusable components, and a smooth user experien
       React.js
       JavaScript (ES6+)
       CSS
-      Vite
+      Create React App
       Netlify
 
 ▶️ Installation: 
